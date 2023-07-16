@@ -29,7 +29,7 @@ Currently, I am focusing on front-end development and hoping to become an expert
 <div style="border:0.5px solid #ebedf0"></div>
 
 <div align="center">
-  <img src="code.gif" width="80%">
+  <img src="code.gif" width="50%">
 </div>
 
 ### contact me
