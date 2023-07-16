@@ -1,21 +1,44 @@
-### Hi there 👋
+## Hi there 👋
 
-- I am a new bird programmer who is still learning. Currently, I am focusing on front-end development and hoping to become an expert one day~
+- I am a new bird programmer who is still learning!
+Currently, I am focusing on front-end development and hoping to become an expert one day~
+
+<h3>  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h3>
+  <div align="center">
+<img src="yuyi1.webp" align="right" width=250>
+  </div>
+<li>
+🔭 I’m currently studuying on hz...
+<li>
+🌱 I’m currently learning vue+three.js/taro+rx.js+ngify/something about angular..
+</li>
+<li>
+🤔 my interest is about front-end development and animations~
+
+</li>
+<li>
+💬 Ask me about anything, I am happy to help;
+</li>
+<li>
+<b>💖</b> photography, Design, Web Development,animation,beatbox
+</li>
+<br><br><br>
+</div>
+<div>
+
+<div style="border:0.5px solid #ebedf0"></div>
 
 <div align="center">
-  <img src="code.gif" width="70%">
+  <img src="code.gif" width="80%">
 </div>
-<!--
-**bluestudyhard/bluestudyhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 I’m currently studuying on hz...
-- 🌱 I’m currently learning vue+three.js/taro+rx.js+ngify/something about angular...
-- 🤔 my interest is about front-end development and animations~
-- 💬 Ask me about anything, I am happy to help;
+
+### contact me
+
+- email:[here](bluemeling@gmail.com)
 
 ### contributions
 
-![img](https://raw.githubusercontent.com/bluestudyhard/bluestudyhard/main/github-contribution-grid-snake.svg)
+<img src="github-contribution-grid-snake.svg">
 
 ### knowledge
 
