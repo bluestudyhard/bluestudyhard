@@ -1,6 +1,12 @@
+
+<div align="center">
+  <img src="code.gif" width="100%">
+</div>
+
+<div style="border:2px solid #ebedf0"></div>
 ## Hi there 👋
 
-- I am a new bird programmer who is still learning!
+I am a new bird programmer who is still learning!
 Currently, I am focusing on front-end development and hoping to become an expert one day~
 
 <h3>  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h3>
@@ -27,10 +33,6 @@ Currently, I am focusing on front-end development and hoping to become an expert
 <div>
 
 <div style="border:0.5px solid #ebedf0"></div>
-
-<div align="center">
-  <img src="code.gif" width="50%">
-</div>
 
 ### contact me
 
